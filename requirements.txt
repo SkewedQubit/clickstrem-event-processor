@@ -1,0 +1,5 @@
+kafka-python>=2.0.2
+pytest>=7.0.0
+apache-flink>=1.16.0
+
+
